@@ -1,0 +1,50 @@
+#Day21
+✔ What is Reverse Shells ?
+✔ Netcat - An Introduction
+✔ Php reverse shells and more...
+✔ Loj4shell (Must Learn)
+
+#Day22
+✔ What is TCP & UDP ?
+✔ Three way TCP handshake
+✔ UDP,SYN Flodding Attacks :)
+
+#Day23
+✔ What is DoS & DDoS Attacks ?
+✔ Developed Simple Python script for DDos Attacks
+✔ DDos Mitigations and to prevent it...
+
+#Day24
+✔ SQLi Room at Tryhackme
+✔ Retrieving Appdata , Subverting Application Logic labs @PortSwigger
+✔ More SQLi Labs https://github.com/Audi-1/sqli-labs
+
+#Day25
+✔ SQLi UNION Attacks at portwigger
+✔ Resource - https://hacksplaining.com/exercises/sql-injection
+✔ SQLi https://medium.com/@nyomanpradipta120/sql-injection-union-attack-9c10de1a5635
+
+#Day26
+✔ Examining the Database at portswigger
+✔ How to detect blind SQLi @PortSwigger
+✔ Blind SQLi https://owasp.org/www-community/attacks/Blind_SQL_Injection
+
+#Day27
+✔ Preventing SQLi Attacks 
+✔ ARP Poisoning Attacks
+✔ MITM (Man in the Middle) Attacks
+ 
+#Day28
+✔ NTLM Hashes using Mimikatz
+✔ What are Cookies ???
+✔ Wordlists and Intruders
+
+#Day29
+✔ What are Crawlers , Scrappers ?
+✔ Shodan at Tryhackme
+✔ Exploring Shodan .....
+
+#Day30
+✔ Geolocating Images at Tryhackme
+✔ Authentication based Vulnerabilities at portswigger
+✔ Username Enumeration Labs
